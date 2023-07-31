@@ -1,0 +1,10 @@
+langchain
+pypdf2
+python-dotenv
+streamlit
+openai
+ib_insync
+newsapi
+pandas
+llama-index
+streamlit
