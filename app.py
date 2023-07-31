@@ -6,7 +6,6 @@ import pandas as pd
 import requests
 from langchain import OpenAI, LLMChain, PromptTemplate
 import streamlit as st
-from playsound import playsound
 from elevenlabs import generate, play, set_api_key
 from datetime import date
 from datetime import timedelta
