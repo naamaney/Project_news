@@ -8,3 +8,4 @@ newsapi
 pandas
 llama-index
 streamlit
+elevenlabs
